@@ -2,6 +2,5 @@ Hi, this file created on remote repo for practicing.
 okay i am adding new line on local
 added third line on local and remote and resolved merge conflict
 added forth line on dev branch on local
-added new line on dev & main for checking rebase
 added fifth line on local to test stashing
-added new line on main for checking rebase
+added new line on dev & main for checking rebase
